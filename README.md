@@ -1,2 +1,2 @@
-# project_1
+# Project_1
 This is just an exercise created casually
